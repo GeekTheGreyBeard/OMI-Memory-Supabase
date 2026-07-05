@@ -556,5 +556,3 @@ Thanks to [James Bubenik](https://github.com/jamesbubenik) for the idea of addin
 This project is released under the [MIT License](LICENSE).
 
 ## Internal Documentation
-
-Obsidian documentation: `OpenClaw/Projects/OMI-Memory-Supabase/`
